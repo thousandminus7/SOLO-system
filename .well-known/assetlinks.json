@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.thousacom.sarim.solondminus7.twa",
+        "sha256_cert_fingerprints": ["D7:9D:D5:63:BA:F9:19:4E:0F:DF:84:D8:7C:96:0E:09:8C:0C:75:74:E7:38:F4:6A:2B:81:D4:7E:25:20:4F:7E"]
+      }
+    }]
